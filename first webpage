@@ -1,0 +1,98 @@
+<!doctype html>
+
+
+<html>
+
+<head>
+
+<title>
+Anchina t
+</title>
+
+	<style  type = "text/css">
+	
+		body {color:blue;}    
+		h1	{text-align:center;background-color:blue;width:350px;color:white;}
+		h2 {background-color:orange;margin-right:1200px;}
+		p {margin-top:100px}
+		img {max-height:100px;
+			max-width:100px}
+	
+	</style>
+	
+	<meta charset = "UTF-8">
+	<meta name = "description" content = "a site i created wen training html">
+	<meta name = "keywords" content = "Precious">
+	<meta name = "author" content = "precious nliwasa"
+	
+</head>
+
+<body>
+<h1>89 T</h1>
+<hr />
+<h2>eyo</h2
+<hr />
+
+<p>acious pake 89T real?</p>
+<hr />
+<a href = "mbw.jpg" ><img src = "mbw.jpg" /></a>
+<img src = "ase ukunama.png" />
+<video src = "Yvonne Elliman If I can't have you 1977 16_9.mp4" width = "200px" controls loop autoplay></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iGs1gODLiSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr />
+
+<form action = "something" method = "post"> 
+
+username:<input type = "text" name = "Username" maxlength = "11" placeholder = "username" />
+password:<input type = "password" name = "pword"/>
+email:<input type="email" name= "email"/>
+<br />
+<br />
+
+
+
+<br />
+male :<input type = "radio" name = "sex" value = "male" />
+female :<input type = "radio" name = "sex" value = "female" />
+<br />
+<br />
+birthday:<input type = "date" name = "birthday"/>
+<br/>
+<br />
+<br />
+message:<textarea name = "message"></textarea>
+<p> which college did you attend </p>
+chancellor college: <input type = "checkbox" name = "school" value = "chancellor college" />
+polytechnic: <input type = "checkbox" name = "school" value = "polytechnic" />
+college of medicine: <input type = "checkbox" name = "school" value = "college of medicine" />
+<br />
+<br />
+what do you want to do today
+<br />
+
+<select name="activities">
+
+	<option value = "ayahuasca">drink ayahuasca</option>
+	<option value ="yoga">do yoga</option>
+	<option value = "piano">play piano</option>
+	<option value = "freestyle">listen to freestyle</option>
+
+</select>
+
+
+<br />
+<br /> 
+submit a picture
+<input type="file" name = "music file"/>
+<br />
+<input type= "submit" value = "submit">
+<br />
+<br />
+
+</form>
+
+</body>
+
+
+
+</html>
